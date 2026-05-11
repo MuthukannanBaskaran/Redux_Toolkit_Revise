@@ -7,6 +7,7 @@ function App() {
     <>
       <h1>React Redux Toolkit</h1>
       <Counter />
+      <h1>Test Heading</h1>
     </>
   )
 }
